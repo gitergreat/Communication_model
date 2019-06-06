@@ -1,5 +1,5 @@
 # Communication_model
-Python3实现的保密通信模型\n
+<p>Python3实现的保密通信模型<\p>
 
 项目包含一个发送端程序和一个接收端程序，接收端要完成对消息的验证和解密\n
 用DES的ECB模式完成对信件内容的加密\n
